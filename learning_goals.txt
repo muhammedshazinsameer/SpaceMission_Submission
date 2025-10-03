@@ -1,0 +1,5 @@
+1. learn the CRUD operations and how to use api requests such (GET,POST,etc...).
+
+2. learn how to use mongoose library and how to connect a database.
+
+3. learn how to build a project and deploy it in cloud. 
